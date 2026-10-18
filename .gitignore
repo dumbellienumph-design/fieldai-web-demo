@@ -1,0 +1,22 @@
+# Secrets & environment
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Local databases & session data
+*.db
+*.sqlite3
+*.session.json
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
